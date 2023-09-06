@@ -3,10 +3,7 @@
 This is Database System Management course project. The web application has all the features mentioned in the `project specification` documentation.
 
 ## How to run
-
-The web application has been deployed [here.](https://railres-Course Project.000webhostapp.com/)
-
-Best supported on Google Chrome Web.
+ 
 
 To run locally,
 
