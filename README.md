@@ -24,6 +24,9 @@ Now, type `localhost/railapp` in the address bar of the browser.
 - Find PNR details
 - Dark mode theme
 
+### Screenshots
+![](https://github.com/BomberAbhi17/IRCT-Railway-Reservation-System/tree/master/Screenshots/a.JPG)
+ 
 ## Team
 Abhjeet Verma
 Aklovya gupta
