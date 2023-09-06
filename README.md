@@ -25,7 +25,11 @@ Now, type `localhost/railapp` in the address bar of the browser.
 - Dark mode theme
 
 ### Screenshots
-![](https://github.com/BomberAbhi17/IRCT-Railway-Reservation-System/tree/master/Screenshots/a.JPG)
+![](https://github.com/BomberAbhi17/IRCT-Railway-Reservation-System/blob/master/Screenshots/a.JPG)
+![](https://github.com/BomberAbhi17/IRCT-Railway-Reservation-System/blob/master/Screenshots/b.JPG)
+ ![](https://github.com/BomberAbhi17/IRCT-Railway-Reservation-System/blob/master/Screenshots/c.JPG)
+ ![](https://github.com/BomberAbhi17/IRCT-Railway-Reservation-System/blob/master/Screenshots/d.JPG)
+ 
  
 ## Team
 Abhjeet Verma
